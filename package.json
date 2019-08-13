@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lodash.isnumber": "^3.0.3"
+  }
+}
